@@ -2,6 +2,11 @@
  * Default theme v2 (https://mobirise.com/)
  * Copyright 2016 Mobirise
  */
+
+ img.headshot-img {
+    height: 20rem;
+    width: 20rem;
+}
 .container {
   position: relative; }
 
@@ -1249,6 +1254,10 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-cards .card-img-top {
   border-radius: 0;
   width: auto;
+  max-width: 100%; }
+  .mbr-cards .headshot-img {
+  height: 20rem;
+  width: 20rem;
   max-width: 100%; }
 .mbr-cards .card-img + .card-block {
   padding-top: 2.3125rem; }
