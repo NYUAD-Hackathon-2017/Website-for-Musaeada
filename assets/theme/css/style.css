@@ -7,6 +7,9 @@
     height: 20rem;
     width: 20rem;
 }
+.dfont {
+ color: 255,255,255; 
+}
 
 .map {
     margin-top: 50px;
@@ -14,7 +17,7 @@
     width: 100%;
 }
 .logo {
-  height: 50px;
+  height: 55px;
 }
 .container {
   position: relative; }
