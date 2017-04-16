@@ -7,6 +7,15 @@
     height: 20rem;
     width: 20rem;
 }
+
+.map {
+    margin-top: 50px;
+    height: 300px;
+    width: 100%;
+}
+.logo {
+  height: 22px;
+}
 .container {
   position: relative; }
 
