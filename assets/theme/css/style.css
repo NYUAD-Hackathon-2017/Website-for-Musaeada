@@ -8,13 +8,16 @@
     width: 20rem;
 }
 .applogos {
-    width: 70%;
+    width: 346px ;
+    height: 632px;
    
 }
 .banner {
-    width: 140%;
+    width: 120%;
    
 }
+
+
 .dfont {
  color: 255,255,255; 
 }
@@ -25,7 +28,8 @@
     width: 100%;
 }
 .logo {
-  height: 55px;
+  width: 180px;
+  /*background: #C0C0C0;*/
 }
 .container {
   position: relative; }
@@ -675,7 +679,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   padding-bottom: 60px; }
 
 .mbr-section-title {
-  margin-top: 0; }
+  margin-top: 20px; 
+  vertical-align: middle;
+}
 
 .mbr-section__container--first {
   padding-top: 120px;
@@ -2201,4 +2207,13 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
 	padding: 0;
 	top: 0;
 	left: -2400px;
+
+}
+.mbr-cards .banner2 {
+  width: 80%;
+}
+
+.app2 {
+  width: 346px;
+  height:632px;
 }
